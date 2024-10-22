@@ -11,5 +11,5 @@ Khan Academy
         Travel to South Korea
         
         I wanna see cool places.
-    </body>
+
 </html>
