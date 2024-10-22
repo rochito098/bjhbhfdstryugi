@@ -4,12 +4,12 @@ Khan Academy
 <html>
     <head>
         <meta charset="utf-8">
-        <title>Project: Travel webpage</title>
+        TRAVEL WEBPAGE
     </head>
     <body>
     
-        <h1>Travel to South Korea</h1>
+        Travel to South Korea
         
-        <h6>I wanna see cool places.</h6>
+        I wanna see cool places.
     </body>
 </html>
